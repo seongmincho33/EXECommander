@@ -1,0 +1,8 @@
+
+*.vsidx
+*.json
+*.dll
+*.pdb
+*.cache
+*.txt
+/EXECommander/.vs
